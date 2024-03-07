@@ -1,4 +1,4 @@
-# [Breach 5 License Generator](https://shining-concepts.github.io/Breach5LicenseGenerator/)
+# [Breach 5 License Generator](https://shining-concepts.github.io/breach5licensegenerator/)
 
 In *[The Vigil Files: Case 1](https://play.google.com/store/apps/details?id=com.makario.vigilos)*, the player is required to generate a license for the fictional Breach 5 application. This is a simple static web page providing them a way to do that, based on the Lua code provided in the in-game "gen_license.txt" file.
 
